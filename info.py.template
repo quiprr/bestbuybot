@@ -1,0 +1,16 @@
+# Best Buy details
+bb_email = ""
+bb_password = ""
+bb_cvv = ""
+
+# Path to ChromeDriver
+chromeDriver = ".\chromedriver.exe"
+
+# Link to product you wish to purchase
+productLink = 'https://www.bestbuy.com/site/nvidia-geforce-rtx-3060-ti-8gb-gddr6-pci-express-4-0-graphics-card-steel-and-black/6439402.p?skuId=6439402'
+
+# Twilio details
+twilio_toNumber = ''
+twilio_fromNumber = ''
+twilio_accountSID = ''
+twilio_authToken = ''
